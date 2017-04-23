@@ -21,4 +21,5 @@ def selection_sort(arr):
 
     return new_arr
 
+
 print(selection_sort([5, 3, 6, 2, 10]))
